@@ -1,0 +1,2 @@
+model_checkpoint_path: "IP_NoAug_P15_t[33, 50, 50, 50, 50, 50, 20, 50, 14, 50, 50, 50, 50, 50, 50, 50]_epo100_model_2.ckpt"
+all_model_checkpoint_paths: "IP_NoAug_P15_t[33, 50, 50, 50, 50, 50, 20, 50, 14, 50, 50, 50, 50, 50, 50, 50]_epo100_model_2.ckpt"
